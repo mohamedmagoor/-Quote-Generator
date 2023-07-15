@@ -1,0 +1,35 @@
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-block: 50px;
+}
+
+.container h1 {
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container p {
+    font-size: 35px;
+}
+
+.container button {
+    padding-inline: 90px;
+    padding-block: 30px;
+    background-color: blue;
+    color: #fff;
+    transition: .3s;
+}
+.container button:hover{
+    background-color: green;
+}
+
+.container blockquote{
+    font-size: 35px;
+    line-height: 2;
+}
+#auther {
+    font-size: 35px;
+}
